@@ -33,6 +33,17 @@
 * [2345好压](http://haozip.2345.com/)：压缩工具，主要可以简单计算MD5，方便
 * [Unlocker](https://unlocker.en.softonic.com/)：windows下文件解锁工具，方便删除
 * [2345看图王](http://pic.2345.com/)：日常看图工具，可以用它打开pdf文件（替代ACDSee）
+* [ColorPix](https://colorpix.en.softonic.com/)：屏幕取色工具
+
+## Chrome扩展
+* [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)：Chrome查看Github源码工具
+* [chrome-qrcode](https://github.com/hustcc/chrome-qrcode)：极简二维码，小巧的二维码生成工具
+* Proxy SwitchyOmega：代理插件，科学上网必备
+* [翰林词典](http://chromecj.com/productivity/2015-02/362/download.html)：占用内存小的翻译工具
+* Vue.js devtools：Vue插件
+* React Developer Tools：React插件
+* Redux DevTools：Redux插件
+
 
 ## 有趣
 * [TicKeys](http://www.yingdev.com/projects/tickeys)：模拟键盘音效，一个人写代码时更有感觉
