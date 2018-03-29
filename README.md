@@ -34,6 +34,7 @@
 * [Unlocker](https://unlocker.en.softonic.com/)：windows下文件解锁工具，方便删除
 * [2345看图王](http://pic.2345.com/)：日常看图工具，可以用它打开pdf文件（替代ACDSee）
 * [ColorPix](https://colorpix.en.softonic.com/)：屏幕取色工具
+链接: https://pan.baidu.com/s/1Lhav8gtC9lVv_mnzECPa1A 密码: 6ybk
 
 ## Chrome扩展
 * [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)：Chrome查看Github源码工具
